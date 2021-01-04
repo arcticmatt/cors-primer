@@ -1,0 +1,1 @@
+CORS support, but does not send the Access-Control-Allow-Credentials header.
